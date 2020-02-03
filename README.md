@@ -32,7 +32,9 @@ v1.1.0
 
 ## Authors
 student: Vovod Stanislava 
+
 facultate: SREM
+
 Group: IS21Z
 
 ## License
