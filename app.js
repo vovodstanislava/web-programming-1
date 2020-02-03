@@ -116,10 +116,7 @@ const numbers = [5, 8, 30, 1];
 console.log(numbers);
 numbers.push(6);
 console.log(numbers);
-numbers.sort(function (a, b) {
-    //Todo de facut ca algoritmul sa filtreze masivul
-    return a - b;
-});
+numbers.sort((a, b) => {return a - b})
 console.log(numbers);
 numbers.splice(1, 2);
 console.log(numbers);
